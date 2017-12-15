@@ -10,4 +10,4 @@ Detects the dominant objects present in an image from a set of 1000 categories s
 3.Add the model to your project and be sure that target is set. <br/>
 4.Run the project. <br/>
 
-
+# Please Note: - You must include the ResNet50 model file to compile the project
